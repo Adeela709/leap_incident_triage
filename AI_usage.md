@@ -1,0 +1,3 @@
+I used AI assistance during development to help me understand unfamiliar Python, machine learning, Git, FastAPI, and deployment concepts.
+I used AI mainly to explain code and errors in simple terms and to help me understand the difference between training and testing data, and help me structure parts of the project.
+One example where AI could have led me astray was around model improvement. It suggested possible approaches for improving the low HIGH-severity prediction, such as changing class weights or thresholds. But I chose not to apply these changes without testing them properly because I did not want to optimise something without understanding it fully as to how it would work.
